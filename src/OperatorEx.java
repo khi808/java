@@ -42,5 +42,7 @@ public class OperatorEx {
 		System.out.println(false || true); // 참
 		
 		
+		
+		
 	}
 }
